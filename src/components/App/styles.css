@@ -1,0 +1,13 @@
+.container {
+  width: 600px;
+  margin: 1em auto;
+}
+
+.app {
+  position: absolute;
+  background-color: #2e5849;
+  top: 0;
+  bottom:0;
+  right: 0;
+  left: 0;
+}
